@@ -17,6 +17,9 @@ Date: 23th Oct. 2013
 #define TIMER_COUNTER_0     0
 #define L 256
 
+
+// here added
+
 //----- index tables -----
 int index1 [BUFFER_SIZE];
 int index2 [BUFFER_SIZE];
